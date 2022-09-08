@@ -13,8 +13,6 @@
 
 
 ### Tech Stack
-___
-
 * React JS v18.2.0
 * Sass v1.54.9
 * Axios v0.27.2
