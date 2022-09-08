@@ -1,7 +1,7 @@
 ## Dhiwise Coding Assessment 
 ---
 ## Steps to run the code
-#### Note: Running backend first is important to get the api up and running o fetch the data on frontend.
+#### Note: Running backend first is important to get the api up and running to fetch the data on frontend.
 ### Backend
 * First install the node modules required for the backend using npm install or npm i in the command line.
 * To run the backend, use "node index.js" command after going inside the backend directory, on the command line or use nodemon by using command "npm run dev".
