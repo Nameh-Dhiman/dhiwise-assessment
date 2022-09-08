@@ -16,7 +16,7 @@
 * Was able to create the API in the backend to serve the tree structure nested data.
 * Was able to fetch it on the frontend and map the data to respective components.
 * Was able to hide table data on hover.
-* Wasn't able to complete editing the string data in table, but would have done it if more time was allowed.
+* Wasn't able to complete editing the string data in table, but could have done it if more time was allowed.
 
 ### Tech Stack
 ___
