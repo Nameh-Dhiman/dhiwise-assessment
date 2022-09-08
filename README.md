@@ -12,12 +12,6 @@
 * To run the frontend, use "npm run start" command after going inside the frontend directory, on the command line.
 
 
-## Status
-* Was able to create the API in the backend to serve the tree structure nested data.
-* Was able to fetch it on the frontend and map the data to respective components.
-* Was able to hide table data on hover.
-* Wasn't able to complete editing the string data in table, but could have done it if more time was allowed.
-
 ### Tech Stack
 ___
 
@@ -30,3 +24,8 @@ ___
 * Cors v2.8.5
 * dotenv v16.0.2
 
+## Status
+* Was able to create the API in the backend to serve the tree structure nested data.
+* Was able to fetch it on the frontend and map the data to respective components.
+* Was able to hide table data on hover.
+* Wasn't able to complete editing the string data in table, but could have done it if more time was allowed.
