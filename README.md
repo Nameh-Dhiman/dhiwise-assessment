@@ -26,5 +26,7 @@ ___
 * Axios v0.27.2
 * Express JS v4.18.1
 * Mongoose for MongoDB v6.5.5
-* Nodemon v6.5.5
+* Nodemon v2.0.19
+* Cors v2.8.5
+* dotenv v16.0.2
 
